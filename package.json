@@ -122,5 +122,5 @@
     "url": "git://github.com/kimedinge/grunt-contrib-jasmine-phantomjs-unofficial.git"
   },
   "scripts": {},
-  "version": "0.8.5"
+  "version": "0.8.6"
 }
