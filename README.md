@@ -1,4 +1,4 @@
-# grunt-contrib-jasmine-phantom v0.8.6
+# grunt-contrib-jasmine-phantom v0.8.6 https://app.travis-ci.com/kimedinge/grunt-contrib-jasmine-phantomjs-unofficial.svg?branch=master
 
 > Run jasmine specs headlessly through PhantomJS.
 

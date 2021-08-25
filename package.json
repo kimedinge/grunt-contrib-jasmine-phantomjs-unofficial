@@ -87,7 +87,7 @@
   },
   "directories": {},
   "engines": {
-    "node": ">=0.8.0"
+    "node": ">=8.0.0"
   },
   "gitHead": "d516ba15c2c06c25a3e7c635bf86b89526040e9e",
   "homepage": "https://github.com/kimedinge/grunt-contrib-jasmine-phantomjs-unofficial",
