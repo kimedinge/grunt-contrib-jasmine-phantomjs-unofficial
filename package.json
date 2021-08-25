@@ -69,6 +69,7 @@
     "es5-shim": "~4.0.1",
     "fs-extra": "^0.16.3",
     "grunt-lib-phantomjs": "^0.6.0",
+	"phantomjs": "^1.9.20",
     "jasmine-core": ">=2.0.4",
     "lcov-result-merger": "^1.0.2",
     "lodash": "~2.4.1",
@@ -117,5 +118,5 @@
     "url": "git://github.com/kimedinge/grunt-contrib-jasmine-phantomjs-unofficial.git"
   },
   "scripts": {},
-  "version": "0.8.7"
+  "version": "0.8.8"
 }

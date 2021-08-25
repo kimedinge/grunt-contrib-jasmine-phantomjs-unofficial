@@ -1,4 +1,4 @@
-# grunt-contrib-jasmine-phantom v0.8.7 [![Build Status](https://app.travis-ci.com/kimedinge/grunt-contrib-jasmine-phantomjs-unofficial.svg?branch=master)](https://app.travis-ci.com/kimedinge/grunt-contrib-jasmine-phantomjs-unofficial.svg?branch=master)
+# grunt-contrib-jasmine-phantom v0.8.8 [![Build Status](https://app.travis-ci.com/kimedinge/grunt-contrib-jasmine-phantomjs-unofficial.svg?branch=master)](https://app.travis-ci.com/kimedinge/grunt-contrib-jasmine-phantomjs-unofficial.svg?branch=master)
 
 > Run jasmine specs headlessly through PhantomJS.
 
@@ -15,13 +15,13 @@ This plugin is tested with Grunt-cli '~1.4.3' which has dependency to Grunt `~1.
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
 ```shell
-npm install grunt-contrib-jasmine-phantomjs --save-dev
+npm install grunt-contrib-jasmine-phantomjs-unofficial --save-dev
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-contrib-jasmine-phantomjs');
+grunt.loadNpmTasks('grunt-contrib-jasmine-phantomjs-unofficial');
 ```
 
 
