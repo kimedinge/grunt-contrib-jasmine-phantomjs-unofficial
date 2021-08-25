@@ -101,12 +101,7 @@
     "memoryleak",
     "memory leak fix"
   ],
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/kimedinge/grunt-contrib-jasmine-phantomjs-unofficial/blob/master/LICENSE-MIT"
-    }
-  ],
+  "license": "ISC",
   "maintainers": [
     {
       "name": "zyz83",
@@ -122,5 +117,5 @@
     "url": "git://github.com/kimedinge/grunt-contrib-jasmine-phantomjs-unofficial.git"
   },
   "scripts": {},
-  "version": "0.8.6"
+  "version": "0.8.7"
 }
